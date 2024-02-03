@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">  </div>
 <div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/JDBC Template-ED4242?style=for-the-badge&logo=BookStack&logoColor=white"> <img src="https://img.shields.io/badge/My Batis-ED4242?style=for-the-badge&logo=BookStack&logoColor=white">
+<img src="https://img.shields.io/badge/JDBC Template-ED4242?style=for-the-badge&logo=BookStack&logoColor=white"> <img src="https://img.shields.io/badge/My Batis-ED4242?style=for-the-badge&logo=BookStack&logoColor=white"> <img src="https://img.shields.io/badge/JPA-ED4242?style=for-the-badge&logo=BookStack&logoColor=white">
 </div>
 
 <br>
