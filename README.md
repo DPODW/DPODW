@@ -18,9 +18,8 @@
 <br>
 
 #### 📧  Contact  📧
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devtaejin00@gmail.com)](mailto:devtaejin00@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jw98143@gmail.com)](mailto:jw98143@gmail.com)
 
  <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DPODW)](https://github.com/anuraghazra/github-readme-stats)
 
