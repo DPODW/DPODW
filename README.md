@@ -1,5 +1,4 @@
 ## HELLO ! 😊
-### 안녕하세요! 백엔드 주니어 개발자 문태진 입니다 ! 
 
 <br>
 
@@ -18,7 +17,6 @@
 <br>
 
 #### 📧  Contact  📧
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jw98143@gmail.com)](mailto:jw98143@gmail.com)
 
  <br>
 
